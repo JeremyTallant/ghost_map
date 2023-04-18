@@ -1,5 +1,4 @@
 # Recreating John Snow's Ghost Map
-![image](https://user-images.githubusercontent.com/112406455/232852301-69792438-9730-4a40-b0cf-3d18e331b8c9.png)
 ## Description
 In 1854, Dr. John Snow (no, not the Game of Thrones's character) used a pre-computer method of spatial analysis by mapping patterns and occurrences of cholera outbreaks in Soho, London. He mapped the deaths in the neighborhood and determined that a vast majority occurred around one particular water well and that those that died used that well.
 
