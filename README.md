@@ -18,9 +18,9 @@ If you don't have a Jupyter environment set up, you can install Jupyter Notebook
 ## Contents
 1. **Dr. John Snow:** Import the data that John Snow collected about the cholera epidemic.
 2. **Cholera attacks!:** Check, rename columns, and describe the DataFrame.
-3. **You know nothing, John Snow!:**
-4. **The Ghost Map:** Prepare and pre-process the data for plotting.
-5. **It's the pump!:**
+3. **You know nothing, John Snow!:** Prepare and pre-process the data for plotting.
+4. **The Ghost Map:** Loop through the pre-processed data to create a map.
+5. **It's the pump!:** 
 6. **You know nothing, John Snow! (again):**
 7. **The picture worth a thousand words:**
 8. **John Snow's myth & Did we learn something?:**
