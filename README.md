@@ -23,4 +23,4 @@ If you don't have a Jupyter environment set up, you can install Jupyter Notebook
 5. **It's the pump!:** Recreate The Ghost Map.
 6. **You know nothing, John Snow! (again):** Reanalyze the John Snow's data about the Cholera Outbreak.
 7. **The picture worth a thousand words:** Visualize the data about the Cholera Outbreak using the Bokeh library.
-8. **John Snow's myth & Did we learn something?:**
+8. **John Snow's myth & Did we learn something?:** True or false?
