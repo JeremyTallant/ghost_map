@@ -16,7 +16,7 @@ If you don't have a Jupyter environment set up, you can install Jupyter Notebook
 
 2. Ensure you have Python installed. If not, you can download and install Python from the [official Python website](https://www.python.org/downloads/).
 ## Contents
-1. **Dr. John Snow:**
+1. **Dr. John Snow:** Import the data that John Snow collected about the cholera epidemic.
 2. **Cholera attacks!:**
 3. **You know nothing, John Snow!:**
 4. **The Ghost Map:**
